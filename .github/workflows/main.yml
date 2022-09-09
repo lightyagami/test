@@ -10,5 +10,5 @@ jobs:
     name: "Build Silver-Core Kernel"
     runs-on: ubuntu-latest
     steps:
-         run: |
+         run:
            sudo sh build.sh
