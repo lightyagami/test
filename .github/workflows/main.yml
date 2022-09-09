@@ -1,0 +1,3 @@
+- name: Running Searchbot
+         run: |
+           sudo sh build.sh
